@@ -18,5 +18,5 @@ for i in range(1000,7500):
         with open("Output.txt","a") as text_file:
             text_file.write(str(i) + " ")
 
-print("\nDONE. See Output.txt for the usable url id's.\nUse https://www.gstatic.com/prettyearth/assets/full/ URL-ID .jpg")
+print("\nDONE. See Output.txt for the usable url ids.\nUse https://www.gstatic.com/prettyearth/assets/full/ URL-ID .jpg")
 
