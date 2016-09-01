@@ -6,7 +6,7 @@ Earthviewpaper grabs a random image from Google's Earthview site ( https://earth
 ##Linux:
 Currently supports Unity 7 and GNOME 3.
 
-In terminal: python3 /path/to/earthviewpaper.py
+In a terminal: python3 /path/to/earthviewpaper.py
 
 ##Windows:
 Works on Windows Vista and newer.
