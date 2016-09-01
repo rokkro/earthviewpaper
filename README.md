@@ -5,10 +5,12 @@ Requires Python 3 to run.
 
 ##Linux:
 Currently supports Unity and GNOME 3
+
 In terminal: python3 /path/to/script/earthviewpaper.py
 
 ##Windows:
-Vista and newer
+Requires Vista and newer
+
 Double click to run, or in cmd: python C:\path\to\earthviewpaper.py
 
 #Todo
