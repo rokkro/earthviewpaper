@@ -4,7 +4,7 @@ Earthviewpaper grabs a random image from Google's Earthview site ( https://earth
 #####Requires Python 3.
 
 ##Linux:
-Currently supports Unity and GNOME 3
+Currently supports Unity 7 and GNOME 3
 
 In terminal: python3 /path/to/script/earthviewpaper.py
 
