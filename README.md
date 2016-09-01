@@ -9,7 +9,7 @@ Currently supports Unity and GNOME 3
 In terminal: python3 /path/to/script/earthviewpaper.py
 
 ##Windows:
-Requires Vista and newer
+Works on Windows Vista and newer.
 
 Double click to run, or in cmd: python C:\path\to\earthviewpaper.py
 
