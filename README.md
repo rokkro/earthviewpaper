@@ -14,6 +14,6 @@ Requires Vista and newer
 Double click to run, or in cmd: python C:\path\to\earthviewpaper.py
 
 #Todo
-1. Figure out how to make this readme look nice
-2. Add more Linux DE support, test stuff
-3. MacOS support
+1. Figure out how to make this readme look nice.
+2. Add more Linux DE support, test stuff.
+3. MacOS support.
