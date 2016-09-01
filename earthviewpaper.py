@@ -8,6 +8,7 @@ def linuxde(wallid):
         print("The earthview dir has been created in your Pictures directory.")
         os.makedirs(dir)
     os.rename(currentd, dir + wallid + ".jpg") #moves the file to the earthview directory
+    
     if (os.environ.get("DESKTOP_SESSION") == 'ubuntu' or os.environ.get("DESKTOP_SESSION") == 'gnome'):  #unity 7, gnome3
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
     else:
