@@ -18,7 +18,7 @@ def win(wallid):
     dir = os.path.expanduser("~") + "\Pictures\earthview\\"
     currentd = os.getcwd() + "\\" + wallid + ".jpg" #location of dl'd image in current dir
     if not os.path.exists(dir): #checks if earthview directory exists
-        print("You can find downloaded images in your \\Pictures\\earthview\\ folder.")
+        print("You can find downloaded images in your Pictures\earthview folder.")
         os.makedirs(dir)
     os.rename(currentd, dir + wallid + ".jpg") #moves the file to the earthview directory
     return dir
