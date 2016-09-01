@@ -14,7 +14,7 @@ Works on Windows Vista and newer.
 Double click to run. 
 Alternatively, in cmd: python C:\path\to\earthviewpaper.py
 
-#Todo
+#Todo:
 1. Figure out how to make this readme look nice.
 2. Add more Linux DE support, test stuff.
 3. MacOS support.
