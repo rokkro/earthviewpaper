@@ -1,10 +1,15 @@
 # Earthviewpaper
 Earthviewpaper grabs a random image from Google's Earthview site ( https://earthview.withgoogle.com ) to use as your wallpaper.
 
-#Support
-Linux: Unity and GNOME 3
+Requires Python 3 to run.
 
-Windows: Vista and newer
+##Linux:
+Currently supports Unity and GNOME 3
+In terminal: python3 /path/to/script/earthviewpaper.py
+
+##Windows:
+Vista and newer
+Double click to run, or in cmd: python C:\path\to\earthviewpaper.py
 
 #Todo
 1. Figure out how to make this readme look nice
