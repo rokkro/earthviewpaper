@@ -4,12 +4,16 @@ Earthviewpaper grabs a random image from Google's [Earthview]( https://earthview
 #####★ Python 3  must be installed!★
 
 ##Linux:
+See your distribution's software repository if Python 3 is not pre-installed.
+
 Currently supports Unity 7 and GNOME 3.
 
 In a terminal: ```python3 /path/to/earthviewpaper.py```
 
 ##Windows:
-Works on Windows Vista and newer. You may need to install [Python3](https://www.python.org/downloads/windows/).
+[Link](https://www.python.org/downloads/windows/) to install Python 3.
+
+Works on Windows Vista and newer. 
 
 Double click to run. 
 Alternatively, in cmd: ```python C:\path\to\earthviewpaper.py```
