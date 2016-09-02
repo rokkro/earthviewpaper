@@ -12,7 +12,7 @@ def linuxde(wallid):
     if (os.environ.get("DESKTOP_SESSION") == 'ubuntu' or os.environ.get("DESKTOP_SESSION") == 'gnome'):  #unity 7, gnome3
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
     else:
-        print("not compatible (yet?)")
+        print("Your desktop environment is not yet supported. You can manually change your wallpaper to the downloaded " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
 
 def win(wallid):
     dir = os.path.expanduser("~") + "\Pictures\earthview\\"
