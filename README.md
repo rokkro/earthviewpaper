@@ -1,6 +1,10 @@
 # Earthviewpaper
 Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview.withgoogle.com ) site and sets it as your wallpaper.
 
+<p align="center">
+  <img src="https://cdn3.iconfinder.com/data/icons/faticons/32/globe-01-128.png"/>
+</p>
+
 #####★ Python 3  must be installed!★
 
 ##Linux:
