@@ -18,7 +18,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 ####Adding to Windows Startup:
 * Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
 
-#Todo:
+##Todo:
 1. More Linux DE support.
 2. MacOS support.
 3. Test stuff.
