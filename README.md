@@ -6,16 +6,16 @@ Earthviewpaper grabs a random image from Google's Earthview site ( https://earth
 ##Linux:
 Currently supports Unity 7 and GNOME 3.
 
-In a terminal: python3 /path/to/earthviewpaper.py
+In a terminal: ```python3 /path/to/earthviewpaper.py```
 
 ##Windows:
 Works on Windows Vista and newer.
 
 Double click to run. 
-Alternatively, in cmd: python C:\path\to\earthviewpaper.py
+Alternatively, in cmd: ```python C:\path\to\earthviewpaper.py```
 ######Adding to Windows startup: 
 
-Place a shortcut to the script in your startup folder (enter shell:startup in Run to access).
+Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
 
 #Todo:
 1. Figure out how to make this readme look nice.
