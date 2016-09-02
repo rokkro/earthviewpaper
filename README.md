@@ -1,5 +1,5 @@
 # Earthviewpaper
-Earthviewpaper grabs a random image from [Google's Earthview site]( https://earthview.withgoogle.com ) and sets it as your wallpaper.
+Earthviewpaper grabs a random image from Google's [Earthview]( https://earthview.withgoogle.com ) site and sets it as your wallpaper.
 
 #####★ Python 3  must be installed!★
 
