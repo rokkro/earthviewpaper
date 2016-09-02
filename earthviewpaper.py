@@ -5,14 +5,14 @@ def linuxde(wallid):
     dir = os.path.expanduser("~") + "/Pictures/earthview/"
     currentd = os.getcwd() + "/" + wallid + ".jpg"
     if not os.path.exists(dir): #checks if earthview directory exists
-        print("You can find downloaded images in your ~/Pictures/earthview/ directory.")
+        print("*You can find downloaded images in your ~/Pictures/earthview/ directory.")
         os.makedirs(dir)
     os.rename(currentd, dir + wallid + ".jpg") #moves the file to the earthview directory
     
     if (os.environ.get("DESKTOP_SESSION") == 'ubuntu' or os.environ.get("DESKTOP_SESSION") == 'gnome'):  #unity 7, gnome3
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
     else:
-        print("Your desktop environment is not yet supported.\n You can manually change your wallpaper to " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
+        print("*Your desktop environment is not yet supported.\n*You can manually change your wallpaper to " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
 
 def win(wallid):
     dir = os.path.expanduser("~") + "\Pictures\earthview\\"
