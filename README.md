@@ -19,7 +19,6 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
 
 #Todo:
-1. Learn2readme.md
-2. More Linux DE support.
-3. MacOS support.
-4. Test stuff.
+1. More Linux DE support.
+2. MacOS support.
+3. Test stuff.
