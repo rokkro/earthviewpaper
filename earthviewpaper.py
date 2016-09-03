@@ -8,10 +8,11 @@ def linuxde(wallid):
         print("*You can find downloaded images in your ~/Pictures/earthview/ directory.")
         os.makedirs(dir)
     os.rename(currentd, dir + wallid + ".jpg") #moves the file to the earthview directory
+    de = os.environ.get("DESKTOP_SESSION")
     
-    if (os.environ.get("DESKTOP_SESSION") == 'ubuntu' or os.environ.get("DESKTOP_SESSION") == 'gnome'):  #unity 7, gnome3
+    if de in['ubuntu', 'gnome', 'cinnamon', 'pantheon']:  #unity 7, gnome3
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
-    else:
+    else: #putting this here in case this issue appears: http://askubuntu.com/a/418521/388226
         print("*Your desktop environment is not supported.\n*You can manually change your wallpaper to " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
 
 def win(wallid):
