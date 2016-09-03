@@ -7,7 +7,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 
 ##Linux:
 * See your distribution's software repository if Python 3 isn't already installed.
-* Earthviewpaper supports Unity 7, GNOME 3, and MATE(tested on 1.12). Cinnamon and Pantheon should work, but are untested.
+* Earthviewpaper supports Unity 7, GNOME 3, and MATE (tested on 1.14). Cinnamon and Pantheon should work, but are untested.
 * KDE Plasma wallpaper changing support doesnt seem possible/reliable (see [this](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2)). The script can still download and save the wallpaper, however.
 * Support for older desktop environments is not planned.
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
