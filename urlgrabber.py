@@ -1,5 +1,5 @@
 '''
-Url nabber: Checks whether Google has added more URLs/images.
+Url grabber: Checks whether Google has added more URLs/images.
 If a url doesnt return a 404, then it is appended to a list + file.
 Used to create the Pastebin link in the main earthview script.
 Will take a while to check all of the links specified in the loop range.
