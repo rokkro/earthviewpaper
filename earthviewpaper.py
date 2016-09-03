@@ -10,8 +10,10 @@ def linuxde(wallid):
     os.rename(currentd, dir + wallid + ".jpg") #moves the file to the earthview directory
     de = os.environ.get("DESKTOP_SESSION")
     
-    if de in['ubuntu', 'gnome', 'cinnamon', 'pantheon', 'gnome-classic', 'mate']:  #GTK3 based DE's
+    if de in['ubuntu', 'gnome', 'cinnamon', 'pantheon', 'gnome-classic']:  #GTK3 based DE's
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
+    elif(de == 'mate'):
+        os.system("gsettings set org.mate.background picture-filename " + dir + wallid + ".jpg")
     else:
         print("*Your desktop environment is not supported.\n*You can manually change your wallpaper to " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
 
