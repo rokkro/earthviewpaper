@@ -12,7 +12,7 @@ def linuxde(wallid):
     
     if de in['ubuntu', 'gnome', 'cinnamon', 'pantheon']:  #unity 7, gnome3
         os.system("gsettings set org.gnome.desktop.background picture-uri file://" + dir + wallid + ".jpg")
-    else: #putting this here in case this issue appears: http://askubuntu.com/a/418521/388226
+    else:
         print("*Your desktop environment is not supported.\n*You can manually change your wallpaper to " + wallid + ".jpg in your ~/Pictures/earthview/ directory.")
 
 def win(wallid):
