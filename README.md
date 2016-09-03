@@ -20,6 +20,6 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
 
 ##Todo:
-1. Look into adding support for XFCE, LXQT, MATE, and Deepin.
+1. Look into adding support for XFCE, LXQT, MATE, and Deepin. Maybe some WM's too.
 2. MacOS support.
 3. Test stuff.
