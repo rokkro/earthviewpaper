@@ -18,7 +18,8 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Double click to run, or in cmd: ```python C:\path\to\earthviewpaper.py```
 
 ####Adding to Windows Startup:
-* Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
+1. Rename the script's file extension to end in .pyw instead of .py. This prevents a Python console from showing whenever the script is run.
+2. Place a shortcut to the script in your startup folder (enter ```shell:startup``` in Run to access).
 
 ##Todo:
 1. Look into adding support for XFCE, LXQT, and Deepin.
