@@ -18,7 +18,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2)
 * LXDE
 * Deepin 
-* i3, openbox, awesomewm, etc.
+* i3, Openbox, awesomeWM, etc.
 
 ##Windows:
 * You'll probably need to [install Python 3](https://www.python.org/downloads/windows/).
