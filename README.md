@@ -13,7 +13,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * XFCE and LXQT will be supported soon.
 
 ####Unsupported Desktop Enironments/WM's:
-#####The script can still download and save the wallpaper, despite not being able to change the wallpaper.
+#####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
 * GTK2 based DE's, excluding XFCE and MATE while they transition to GTK3.
 * [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2)
 * LXDE
