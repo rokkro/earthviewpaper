@@ -17,7 +17,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * GTK2 based DE's, excluding XFCE and MATE while they transition to GTK3.
 * [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2)
 * LXDE
-* Deepin 
+* Deepin (Unsure if it's possible, but I'd like to add support if I can.) 
 * i3, Openbox, awesomeWM, etc.
 
 ##Windows:
