@@ -10,7 +10,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Earthviewpaper supports Unity 7, GNOME 3, and MATE (1.14).
 * Cinnamon, Pantheon, and mayyybe Budgie should work, but are untested.
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
-* XFCE and LXQT will be supported soon.
+* XFCE and LXQT will be supported sometime in the future.
 
 ####Unsupported Desktop Enironments/WM's:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
