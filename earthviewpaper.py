@@ -46,6 +46,7 @@ def connectdl(): #attempts to retrieve wallids, splits into a list, randomly pic
             urlretrieve("http://pastebin.com/raw/n9hAzgBQ", "temp.txt")
             urlid = open("temp.txt").read().split(' ')
             os.remove("temp.txt")
+            urlid.close()
             wallid = urlid[random.randrange(0, len(urlid)-1)]
             urlretrieve("https://earthview.withgoogle.com/download/" + wallid + ".jpg", wallid + ".jpg")
         except: #will keep attempting to connect until the loop ends (30 seconds?)
