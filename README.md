@@ -11,7 +11,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Cinnamon, Pantheon, and mayyybe Budgie should work, but are untested.
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
 * XFCE and LXQT will be supported sometime in the future.
-* MATE 1.16 support will be added after it has more distro support.
+* MATE 1.16 support will be added soon.
 
 ####Unsupported Desktop Enironments/WM's:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
