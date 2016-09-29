@@ -32,5 +32,8 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 
 ##Todo:
 1. XFCE and LXQT.
-2. MacOS support, BSD, ChromeOS?
-3. Test stuff.
+2. ChromeOS
+
+##Unlikely:
+1. BSD
+2. MacOS (no ability to test)
