@@ -16,7 +16,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 ####Unsupported Desktop Enironments/WM's:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
 * [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2)
-* LXDE
+* LXDE, PIXEL
 * Deepin (Doesn't appear possible - might be for the same reason KDE won't work either) 
 * Older GTK2 based DE's.
 * i3, Openbox, awesomeWM, etc.
@@ -32,7 +32,8 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 
 ##Todo:
 1. XFCE and LXQT.
-2. ChromeOS
+2. ChromeOS (need to learn JS).
+3. Look into multi monitor configurations.
 
 ##Unlikely:
 1. BSD
