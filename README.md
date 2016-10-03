@@ -12,10 +12,11 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
 * XFCE and LXQT will be supported sometime in the future.
 * MATE 1.16 support will be added soon.
+* There are multiple ways to add to your distribution's startup such as: through a GUI, adding it to your crontab, adding it as a systemd service, and more.
 
 ####Unsupported Desktop Enironments/WM's:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
-* [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2). Though the KaOS distro seems to be capable of changing the wallpaper, so I will have to do some investigating...
+* [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2).
 * LXDE, PIXEL
 * Deepin (Doesn't appear possible - might be for the same reason KDE won't work either) 
 * Older GTK2 based DE's.
@@ -34,6 +35,8 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 1. XFCE and LXQT.
 2. ChromeOS (need to learn JS).
 3. Look into multi monitor configurations.
+4. Look into timed wallpaper changing.
+5. Look into adding more wallpaper sources.
 
 ##Unlikely:
 1. BSD
