@@ -30,10 +30,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 
 ##Todo:
 1. XFCE and LXQT.
-2. ChromeOS (need to learn JS).
-3. Look into multi monitor configurations.
-4. Look into timed wallpaper changing.
-5. Look into adding more wallpaper sources.
+2. ChromeOS.
 
 ##Unlikely:
 1. BSD
