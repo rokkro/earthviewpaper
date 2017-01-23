@@ -9,7 +9,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * See your distribution's software repository if Python 3 isn't already installed.
 * Earthviewpaper supports Unity 7, GNOME 3, Zorin 2.0 (Zorin OS 12), MATE (1.16), Budgie, Cinnamon, and Pantheon.
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
-* Mate 1.16 (GTK3) supported, but untested. Pre 1.16 support removed.
+* MATE 1.16 (GTK3) supported, but untested. Pre 1.16 support removed.
 
 ####Unsupported Desktop Enironments:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
