@@ -11,7 +11,7 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
 * Mate 1.16 (GTK3) supported, but untested. Pre 1.16 support removed.
 
-####Unsupported Desktop Enironments/WM's:
+####Unsupported Desktop Enironments:
 #####The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
 * [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2), LXDE, PIXEL, Enlightenment, Deepin, Unity 8, XFCE, LXQT, GTK2 based DE's.
 
