@@ -10,10 +10,6 @@ Earthviewpaper grabs a random image from [Google's Earthview]( https://earthview
 * Earthviewpaper supports Unity 7, GNOME 3, Zorin 2.0 (Zorin OS 12), MATE (1.16+), Budgie, Cinnamon, and Pantheon.
 * In a terminal: ```python3 /path/to/earthviewpaper.py```
 
-#### Unsupported Desktop Enironments:
-##### The script can still download and save the wallpaper, despite not being able to change the wallpaper on its own.
-* [KDE Plasma](https://www.reddit.com/r/linux/comments/4k1wht/i_made_a_script_that_changes_your_wallpaper_based/d3cvat2), LXDE, PIXEL, Enlightenment, Deepin, Unity 8, XFCE, LXQT, GTK2 based DE's.
-
 ## Windows:
 * You'll probably need to [install Python 3](https://www.python.org/downloads/windows/).
 * Earthviewpaper should work on Windows Vista and newer.
